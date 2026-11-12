@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I combine my background in Digital Marketing with 
 ---
 
 ### Curriculum Vitae 
- **[Download / View My CV (PDF)](.-Babi%20Eya%20CV.pdf.pdf)**
+ **[Download / View My CV (PDF)](https://github.com/Eeyaabb/Eeyaabb/blob/main/Babi%20Eya%20CV.pdf.pdf)**
 
  ---
 
