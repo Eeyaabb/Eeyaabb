@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Eya Babi
+** Digital Marketing specialist & Aspiring Data Analyst**
+Welcome to my GitHub profile! I combine my background in Digital Marketing with practical Data Analysis skills to turn raw data into actionable business insights.
 
-<!--
-**Eeyaabb/Eeyaabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Curriculum Vitae 
+ **[Download / View My CV (PDF)](.-Babi%20Eya%20CV.pdf.pdf)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ---
+
+ ### Technical Skilss & Tools
+ * **Data Analysis & Visualization:** Microsoft Excel, Power BI, Tableau
+ * **Database & Programming:**SQL (MYSQL)
+ * **Digital Marketing:**Meta Business suite, Brevo, Odoo, canva, Figma
+
+---
+
+### Certifications & Visual Experience
+* **Data Analytics Job Simulations** - The Forage
+* **SQL 101 & SQL 102** - Sator Platform
+* **Digital Data Analytics** - Edraak platform, Satr platform
