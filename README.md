@@ -19,4 +19,4 @@ Welcome to my GitHub profile! I combine my background in Digital Marketing with 
 ### 🏆 Certifications & Visual Experience
 * **Data Analytics Job Simulations** - The Forage
 * **SQL 101 & SQL 102** - Sator Platform
-* **Digital Data Analytics** - Edraak platform, Satr platform
+* **Digital Data Analytics** - Edraak platform
