@@ -4,19 +4,19 @@ Welcome to my GitHub profile! I combine my background in Digital Marketing with 
 
 ---
 
-### Curriculum Vitae 
- **[Download / View My CV (PDF)](https://github.com/Eeyaabb/Eeyaabb/blob/main/Babi%20Eya%20CV.pdf.pdf)**
+### 📝 Curriculum Vitae 
+👉 **[Download / View My CV (PDF)](https://github.com/Eeyaabb/Eeyaabb/blob/main/Babi%20Eya%20CV.pdf.pdf)**
 
  ---
 
- ### Technical Skilss & Tools
+ ### 🛠️ Technical Skilss & Tools
  * **Data Analysis & Visualization:** Microsoft Excel, Power BI, Tableau
  * **Database & Programming:**SQL (MYSQL)
  * **Digital Marketing:**Meta Business suite, Brevo, Odoo, canva, Figma
 
 ---
 
-### Certifications & Visual Experience
+### 🏆 Certifications & Visual Experience
 * **Data Analytics Job Simulations** - The Forage
 * **SQL 101 & SQL 102** - Sator Platform
 * **Digital Data Analytics** - Edraak platform, Satr platform
