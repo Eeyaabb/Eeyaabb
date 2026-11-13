@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I combine my background in Digital Marketing with 
 
  ### 🛠️ Technical Skilss & Tools
  * **Data Analysis & Visualization:** Microsoft Excel, Power BI, Tableau
- * **Database & Programming:**SQL (MYSQL)
- * **Digital Marketing:**Meta Business suite, Brevo, Odoo, canva, Figma
+ * **Database & Programming:** SQL (MYSQL)
+ * **Digital Marketing:** Meta Business suite, Brevo, Odoo, canva, Figma
 
 ---
 
