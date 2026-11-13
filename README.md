@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Eya Babi
-** Digital Marketing specialist & Aspiring Data Analyst**
+**Digital Marketing specialist & Aspiring Data Analyst**
 Welcome to my GitHub profile! I combine my background in Digital Marketing with practical Data Analysis skills to turn raw data into actionable business insights.
 
 ---
